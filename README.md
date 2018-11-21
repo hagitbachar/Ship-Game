@@ -12,9 +12,7 @@ web pages:
 http://stackoverflow.com
 
 
-==================
-=  Description:  =
-==================
+Description:
 This program creates a game.
 There is two classes, the first one is 'ship':
 every ship has 4 params:
